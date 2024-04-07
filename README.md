@@ -40,6 +40,9 @@ This is a Python implementation of the classic 2048 game using the Pygame librar
 
 [Watch the video demonstration](2048.mp4)
 
+![image](https://github.com/Yashchaudhari29/2048-Game/assets/119956179/e2c08be9-7ac5-4243-a17d-0b6273d4a626)
+
+
 ## How to Run
 
 1. Ensure you have Python and Pygame installed on your system.
