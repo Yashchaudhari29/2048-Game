@@ -36,15 +36,12 @@ This is a Python implementation of the classic 2048 game using the Pygame librar
 - Tiles are colored based on their value.
 - The game window displays the current score.
 
-## Video Demo
+## Demonstration
 
-<video width="640" height="360" controls>
-  <source src="path_to_your_video_file.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Watch the video demonstration](2048.mp4)
 
 ## How to Run
 
 1. Ensure you have Python and Pygame installed on your system.
-2. Run the script using Python: `python filename.py` (replace `filename.py` with the name of the script file).
+2. Run the script using Python: `python main.py`.
 3. Enjoy playing 2048!
