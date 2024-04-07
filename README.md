@@ -36,10 +36,10 @@ This is a Python implementation of the classic 2048 game using the Pygame librar
 - Tiles are colored based on their value.
 - The game window displays the current score.
 
-## Demonstration
+## Video Demo
 
 <video width="640" height="360" controls>
-  <source src="https://github.com/Yashchaudhari29/2048-Game/assets/119956179/2a2d9c3b-910c-4a40-b2ec-cc134d127fa9" type="video/mp4">
+  <source src="path_to_your_video_file.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
